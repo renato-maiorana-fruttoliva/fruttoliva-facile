@@ -41,7 +41,7 @@ I frutti non toccano mai terra, cadono su una superficie ammortizzata e vengono 
 
 ## 🔑 Licenza
 Questo progetto è distribuito sotto **Licenza Source-Available (SA-Commercial v1.0)**.  
-La visione dei file è libera, ma la **costruzione e l’uso** della macchina sono soggetti a licenza a pagamento.  
+La **costruzione e l’uso** della macchina sono soggetti a licenza a pagamento.  
 
 ### 💰 Tariffe
 - Privati: **100 €** → costruzione di **1 unità personale**.  
