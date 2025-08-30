@@ -42,7 +42,7 @@ I file CAD, i disegni tecnici e i manuali **non sono pubblici**.
 Per richiederli è necessario accettare la licenza e completare il pagamento.
 
 👉 Compila questo modulo per richiedere i file:  
-**[Modulo di richiesta licenza e download](LINK_GOOGLE_FORM)**
+**[Modulo di richiesta licenza e download](https://docs.google.com/forms/d/e/1FAIpQLSfTbVVMwHI2QLadnsCA7LujxI0538x4_AsAecVl4cnVWzvgLw/viewform?usp=header)**
 
 ### 💰 Tariffe
 - Privati: **100 €** → costruzione di **1 unità personale**.  
