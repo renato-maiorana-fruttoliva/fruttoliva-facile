@@ -3,7 +3,7 @@
 
 # FruttOliva Facile – Macchina raccogli olive manuale
 
-![Logo](marketing/logo.png)
+
 <!-- Logo visibile sia in light che dark mode -->
 <p align="center">
   <!-- Logo per light mode -->
