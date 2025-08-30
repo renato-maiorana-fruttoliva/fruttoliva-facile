@@ -4,6 +4,15 @@
 # FruttOliva Facile – Macchina raccogli olive manuale
 
 ![Logo](marketing/logo.png)
+<!-- Logo visibile sia in light che dark mode -->
+<p align="center">
+  <!-- Logo per light mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="marketing/logo_scuro.png">
+    <source media="(prefers-color-scheme: light)" srcset="marketing/logo_chiaro.png">
+    <img alt="FruttOliva Facile" src="marketing/logo_chiaro.png" width="400">
+  </picture>
+</p>
 
 ---
 
