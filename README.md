@@ -1,5 +1,5 @@
-# fruttoliva-facile
-“Prototipo manuale green per raccolta olive e frutti pendenti. Licenza Source-Available (SA-Commercial).”
+# FruttOliva-Facile
+“Prototipo manuale "green" per raccolta olive e frutti pendenti. Licenza Source-Available (SA-Commercial).”
 
 # FruttOliva Facile – Macchina raccogli olive manuale
 
@@ -31,9 +31,6 @@ I frutti non toccano mai terra, cadono su una superficie ammortizzata e vengono 
 ---
 
 ## 📂 Struttura del repository
-- `/cad/` → file FreeCAD (.FCStd)  
-- `/drawings/` → disegni tecnici PDF  
-- `/docs/` → manuali, istruzioni di montaggio, sicurezza (SAFETY.md)  
 - `/legal/` → licenza (LICENSE_FULL.docx) e marchio (TRADEMARK.docx)  
 - `/marketing/` → logo e immagini  
 
@@ -41,7 +38,11 @@ I frutti non toccano mai terra, cadono su una superficie ammortizzata e vengono 
 
 ## 🔑 Licenza
 Questo progetto è distribuito sotto **Licenza Source-Available (SA-Commercial v1.0)**.  
-La **costruzione e l’uso** della macchina sono soggetti a licenza a pagamento.  
+I file CAD, i disegni tecnici e i manuali **non sono pubblici**.  
+Per richiederli è necessario accettare la licenza e completare il pagamento.
+
+👉 Compila questo modulo per richiedere i file:  
+**[Modulo di richiesta licenza e download](LINK_GOOGLE_FORM)**
 
 ### 💰 Tariffe
 - Privati: **100 €** → costruzione di **1 unità personale**.  
