@@ -16,7 +16,7 @@
 
 # Descrizione
 
-La macchina raccogli olive è un connubio tra Tradizione e Innovazione, un'evoluzione di un mio primo prototipo creato nel 2018.
+La macchina raccogli oli è un connubio tra Tradizione e Innovazione, un'evoluzione di un mio primo prototipo creato nel 2018.
 
  
 # PROGETTO MACCHINA RACCOGLI OLIVE E FRUTTI PENDULI.
