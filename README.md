@@ -94,59 +94,26 @@ Il progetto è archiviato con **DOI Zenodo**:
 - Email ufficiale: **fruttolivafacile@gmail.com**  
 - PEC: **renatomaiorana@pec.it**  
 
----
 
----
 
-# 🇬🇧 English version
 
-## Description
-**FruttOliva Facile** is a **manual and eco-friendly prototype machine** for harvesting olives and other hanging fruits.  
-Fruits never touch the ground: they fall onto a cushioned surface and are immediately collected into crates.
 
-### ⚙️ Main features
-- No motor → manual, silent, ecological.  
-- Integrated multiple crates.  
-- Spring-based system to cushion fruit fall.  
-- Can be anchored with pulleys on sloped terrain.  
-- Modular structure adaptable to various fruits (olives, apples, kiwis, plums, pears, nuts, hazelnuts).  
 
----
 
-## 📂 Repository structure
-- `/cad/` → FreeCAD files (.FCStd)  
-- `/drawings/` → technical drawings (PDF)  
-- `/docs/` → manuals, assembly instructions, safety (SAFETY.md)  
-- `/legal/` → LICENSE_FULL.docx and TRADEMARK.docx  
-- `/marketing/` → logo and images  
 
----
 
-## 🔑 License
-This project is distributed under the **Source-Available License (SA-Commercial v1.0)**.  
-Files can be viewed freely, but **construction and use** of the machine require a paid license.  
 
-### 💰 Fees
-- Private individuals: **100 €** → for **1 personal unit**.  
-- Companies/Professionals: **400 € per unit built**.  
 
-### 📌 Payment method
-Bank transfer:  
-IBAN: IT15W0760102400001016063081
-Account holder: Renato Maiorana
-Bank: Poste Italiane
 
-Each machine must display a **license ID tag** issued by the author.  
 
----
 
-## 📅 Timestamp
-The project is archived with **Zenodo DOI**:  
-👉 [DOI to be added after Zenodo release]  
 
----
+  
 
-## 📧 Contacts
-- Author: **Renato Maiorana**  
-- Official email: **fruttolivafacile@gmail.com**  
-- Certified email (PEC): **renatomaiorana@pec.it**
+ 
+
+
+
+
+
+
