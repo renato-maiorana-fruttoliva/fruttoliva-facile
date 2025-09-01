@@ -26,7 +26,7 @@ PUNTI DI FORZA:
 
 
   
-#PROGETTO MACCHINA RACCOGLI OLIVE E FRUTTI PENDULI.
+# PROGETTO MACCHINA RACCOGLI OLIVE E FRUTTI PENDULI.
 QUESTO NUOVO PROTOTIPO è stato studiato per una raccolta d’eccellenza, le nuove ricerche e lo studio
 sullo sfruttamento della gravità e della cinetica fanno si che la raccolta della frutta o delle olive non subisca
 stress.
@@ -39,7 +39,7 @@ Tutta la macchina è stata inserita nello spazio complessivo di 135x64 cm del ca
 poterla depositare senza occupazione di spazio in casa o in magazzino. La sua posizione a riposo è in
 verticale quindi le misure di 135 cm sono per l’altezza 64 cm per la larghezza e la profondità e di solo 50 cm.
 
-##L’assemblaggio dei pezzi del cestello di raccolta per iniziare il lavoro segue un’indicazione obbligatoria con
+## L’assemblaggio dei pezzi del cestello di raccolta per iniziare il lavoro segue un’indicazione obbligatoria con
 segni che devono combaciare quindi non ci possono essere errori di assemblaggio. Tutti i pezzi possono
 essere montati senza chiavi o attrezzi speciali tutto è fissato attraverso dadi avvitabili con una semplice
 chiave del 13.
