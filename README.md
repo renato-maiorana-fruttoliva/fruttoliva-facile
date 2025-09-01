@@ -18,8 +18,7 @@
 
 La macchina raccogli olive è un connubio tra Tradizione e Innovazione, un'evoluzione di un mio primo prototipo creato nel 2018.
 
-PUNTI DI FORZA:
-  
+ 
 # PROGETTO MACCHINA RACCOGLI OLIVE E FRUTTI PENDULI.
 QUESTO NUOVO PROTOTIPO è stato studiato per una raccolta d’eccellenza, le nuove ricerche e lo studio
 sullo sfruttamento della gravità e della cinetica fanno si che la raccolta della frutta o delle olive non subisca
@@ -28,22 +27,23 @@ Gli accorgimenti adoperati superano di gran lunga le vecchie macchine di raccolt
 apportate sono talmente intrinseche nella macchina da far pensare ad una sofisticata tecnologia.
 L’uso e la manutenzione della macchina sono stati semplificati per essere usata anche da personale non
 esperto. Tutto è stato pensato e costruito per utilizzare questo piccolo gioiello a largo spettro.
-PUNTI DI FORZA:
-Tutta la macchina è stata inserita nello spazio complessivo di 135x64 cm del carrello con staffe e slitte per
+# PUNTI DI FORZA:
+Tutta la macchina è stata inserita nello spazio complessivo di 135 cm x 64 cm del carrello con staffe e slitte per
 poterla depositare senza occupazione di spazio in casa o in magazzino. La sua posizione a riposo è in
-verticale quindi le misure di 135 cm sono per l’altezza 64 cm per la larghezza e la profondità e di solo 50 cm.
+verticale quindi le misure di 135 cm sono per l’altezza, 64 cm per la larghezza e di solo 50 cm. per la profondità.
+Il carrello trasporta cestelli è stato studiato per poter essere utilizzato come un semplice carrello agricolo a 4 ruote per trasportare pesi molto sostenuti o come carrello a 2 ruote.
 
-# L’assemblaggio dei pezzi del cestello di raccolta per iniziare il lavoro segue un’indicazione obbligatoria con
-segni che devono combaciare quindi non ci possono essere errori di assemblaggio. Tutti i pezzi possono
-essere montati senza chiavi o attrezzi speciali tutto è fissato attraverso dadi avvitabili con una semplice
+L’assemblaggio dei pezzi dei cestelli di raccolta  segue un’indicazione obbligatoria con
+segni che devono combaciare quindi non ci possono essere errori di procedura. Tutti i pezzi possono
+essere montati senza chiavi o attrezzi speciali, tutto è fissato attraverso dadi avvitabili con una semplice
 chiave del 13.
-VARI CESTELLI PER VARI FRUTTI:
+# VARI CESTELLI PER VARI FRUTTI:
 I cestelli di raccolta in questo momento sono due, un cestello ad imbuto quadrilatero con rete morbida e un
 cestello rigido a forma di rettangolo con bordo raccolta allungabile di rete semi rigida.
 Il cestello rigido in alluminio forato, è circondato ( per espandere la sua grandezza di raccolta
 frutta) da un tubo in materiale pvc. Per sostenere questo tubo sono stati inserite delle staffe forate
 e dei perni angolati che sostengono dei giunti in pvc del tubo flessibile. Per esigenze di
-allargamento del piano raccolta si può sostituire i perni forniti con dei perni più sporgenti dal piano
+allargamento del piano raccolta si possono sostituire i perni forniti con dei perni più sporgenti dal piano
 di raccolta.
 E’ stata studiata una tecnologia di fissaggio del cestello al carrello con un solo asse di contatto per
 permettere al piano di muoversi sia in orizzontale che in verticale. Il sistema completamente smontabile,
@@ -56,9 +56,9 @@ dello stesso, basta sostituire gli assi plastificati sulla croce alta, con degli
 più ampia. I tubi in materiale pvc permettono in caso di necessità di potersi avvicinare di più all'albero.
 Il cestello di rete può essere utilizzato con diverse inclinazioni per una raccolta delicata dei frutti penduli
 come Kiwi o molto inclinata per piccoli frutti che non hanno problemi di collisione.
-Fissaggio veloce della rete al tubo con fermi d’acciaio
-TECNOLOGIE INSERITE:
-Cestello regolabile in circonferenza e in angolazione
+Fissaggio veloce della rete al tubo con fermi d’acciaio.
+# TECNOLOGIE INSERITE:
+Cestello regolabile in circonferenza e in angolazione.
 
 Piatto raccolta in alluminio leggero sospeso, vibrante, rotante a 360° per il cambio di cassetta. La sua
 sospensione trattenuta dalla stessa rete fa si che il peso dei frutti atterrati lo spinga verso il basso
@@ -81,10 +81,10 @@ Gli assi anteriori che sostengono il manubrio sono stati rinforzati con del ferr
 possibilità di carico, lo stesso manubrio è stato progettato con piani tondi di scivolamento e bullone
 saldato di grosse dimensioni.
 La portata delle ruote è superiore a 400 kg su terreni in piano
-Note:
+# Note:
 Questa macchina è il prodotto di studi e prove di tecnologia e di pensiero… La sua realizzazione mi ha dato
 soddisfazione per tutte le scommesse vinte e forse ancora da vincere con un altro prototipo.
-LA RACCOLTA:
+# LA RACCOLTA ... DIFFERENZE SOSTANZIALI RISPETTO ALLE ALTRE MACCHINE:
 TERRENI CON ERBA ALTA
 PIANTE CON POLLONI
 PIANTE ALTE E BASSE
@@ -94,16 +94,16 @@ NIENTE STRESS E CORSE
 RACCOLTA ANCHE CON PIOGGIA O TERRENI BAGNATI
 NIENTE MOTORI PER IL TRASPORTO
 BASTA UN OPERATORE SOLO
-NIENTE SPOSTAMENTO DI RETI E CASSETTE
+NIENTE USO DI RETI A TERRA E SPOSTAMENTO DI CASSETTE
 POSSIBILITA’ D’ANCORAGGIO AD ALTRI ALBERI PER UNA RACCOLTA IN SALITA O IN DISCESA
 
 * Si può usare qualsiasi tipo di manina per la brucatura; consigliabile usare la nuova MANINA LEGGERA da me costruita ( Manina Dinamica V 3.0) senza alimentazione elettrica o ad aria per ottenere dell'olio extravergine pregiato;
 * Si consiglia di tenere gli alberi ben potati a cono con le cascatelle di rami (a vaso pollonico) per spostare la produzione verso l’esterno della pianta.
 * FruttOliva può essere spostata manualmente o trainata da un tagliaerba o trattorino;
-* Può trasportare oltre i 150 kg di olive;
-* E’ smontabile, facilmente riponibile in verticale occupando poco spazio e gli accessori sono inseribili nella base stessa;
+* Può trasportare oltre i 150 kg di frutti;
+* E’ smontabile, facilmente riponibile in verticale occupando poco spazio poichè GLI ACCESSORI SONO ANCORABILI NEL CARRELLO.
   
-POSSIBILITA’ DI MOTIFICARE TUTTO, DAL CESTELLO AL PIATTO, AL TUBO DI RACCOLTA ALLA RETE. LA RETE
+POSSIBILITA’ DI MODIFICARE TUTTO, DAL CESTELLO AL PIATTO, AL TUBO DI RACCOLTA ALLA RETE. LA RETE
 PER SEMPLIFICARE E VELOCIZZARE IL MONTAGGIO LO SMONTAGGIO E LA RIPARAZIONE E’SOLO
 TRATTENUTA DA GRAFFETTE IN ACCIAIO.
 
