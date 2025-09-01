@@ -188,10 +188,10 @@ Dichiarazioni false (es. presentarsi come privato o agricoltore senza titolo) co
 
 👉 Compila questo modulo per richiedere i file:  
 **[Modulo di richiesta licenza e download](https://docs.google.com/forms/d/e/1FAIpQLSfTbVVMwHI2QLadnsCA7LujxI0538x4_AsAecVl4cnVWzvgLw/viewform?usp=header)**
-Scarica la licenza
-Compila i dati richiesti
-Aspetta la conferma di Renato Maiorana
-Effettua il pagamento con bonifico
+- Scarica la licenza
+- Compila i dati richiesti
+- Aspetta la conferma di Renato Maiorana
+- Effettua il pagamento con bonifico
 Quando Renato Maiorana riceve l'accredito sul conto ti invia:
 1) la Licenza firmata;
 2) tutti i documenti, file e foto dettagliate per la costruzione della macchina FruttOliva Facile;
