@@ -29,9 +29,10 @@ PUNTI DI FORZA:
 PROGETTO MACCHINA RACCOGLI OLIVE E FRUTTI PENDULI.
 QUESTO NUOVO PROTOTIPO è stato studiato per una raccolta d’eccellenza, le nuove ricerche e lo studio
 sullo sfruttamento della gravità e della cinetica fanno si che la raccolta della frutta o delle olive non subisca
-stress. Gli accorgimenti adoperati superano di gran lunga le vecchie macchine di raccolta, le innovazioni
+stress.
+Gli accorgimenti adoperati superano di gran lunga le vecchie macchine di raccolta, le innovazioni
 apportate sono talmente intrinseche nella macchina da far pensare ad una sofisticata tecnologia.
-L’uso e la manutenzione della macchina è stato semplificato per essere usata anche da personale non
+L’uso e la manutenzione della macchina sono stati semplificati per essere usata anche da personale non
 esperto. Tutto è stato pensato e costruito per utilizzare questo piccolo gioiello a largo spettro.
 PUNTI DI FORZA:
 Tutta la macchina è stata inserita nello spazio complessivo di 135x64 cm del carrello con staffe e slitte per
