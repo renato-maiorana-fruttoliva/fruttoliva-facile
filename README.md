@@ -131,7 +131,7 @@ I disegni tecnici, le immagini dettagliate e i manuali **non sono pubblici**.
 Per richiederli è necessario accettare la licenza e completare il pagamento.
 
 ## 💰 Tariffe: 
-Le seguenti tariffe sono relative al carrello e ad un solo cestello a scelta, chi volesse il progetto di entrambi i cestelli c'è un aggiunta di 100 €
+Le seguenti tariffe sono relative al carrello e ad un solo cestello a scelta, per chi volesse il progetto di entrambi i cestelli c'è un aggiunta di 100 €
 
 # Partita IVA agricola con uno dei seguenti codici ATECO:
 
@@ -156,10 +156,11 @@ Alleanza delle Cooperative Italiane – Agroalimentare
 Unaprol – Consorzio Olivicolo Italiano
 
 AcliTerra (settore agricolo delle ACLI)
-Per tutte le altre associazione regionali o nazionali identificare nominativo e relativo numero di iscrizione
-💰 400 € per unità (importo da assoggettare ad eventuale ritenuta d'acconto)
 
-🏭 Partite IVA industriali / artigiane / commerciali
+Per tutte le altre associazione regionali o nazionali identificare nominativo e relativo numero di iscrizione
+# 400 € per unità (importo da assoggettare ad eventuale ritenuta d'acconto da parte del sosituto di imposta)
+
+# Partite IVA industriali / artigiane / commerciali
 
 Valido per chi opera in settori NON agricoli, ad esempio:
 
@@ -173,10 +174,10 @@ Rivenditori di attrezzature
 
 Aziende artigiane o industriali non agricole
 
-💰 500 € per ogni unità costruita (importo da assoggettare ad eventuale ritenuta d'acconto)
+# 500 € per ogni unità costruita (importo da assoggettare ad eventuale ritenuta d'acconto da parte del sostituto di imposta)
 
-Piccoli coltivatori fino a 300 alberi 
-💰 300 € per ogni unità costruita
+# Piccoli coltivatori fino a 300 alberi 
+# 300 € per ogni unità costruita
 
 📌 Note
 
@@ -184,15 +185,26 @@ Ogni unità deve riportare una targhetta identificativa con ID licenza rilasciat
 
 Dichiarazioni false (es. presentarsi come privato o agricoltore senza titolo) comportano la nullità della licenza e l’obbligo di corrispondere la tariffa corretta maggiorata del 50% come penale.
 
+
 👉 Compila questo modulo per richiedere i file:  
 **[Modulo di richiesta licenza e download](https://docs.google.com/forms/d/e/1FAIpQLSfTbVVMwHI2QLadnsCA7LujxI0538x4_AsAecVl4cnVWzvgLw/viewform?usp=header)**
+Scarica la licenza
+Compila i dati richiesti
+Aspetta la conferma di Renato Maiorana
+Effettua il pagamento con bonifico
+Quando Renato Maiorana riceve l'accredito sul conto ti invia:
+1) la Licenza firmata;
+2) tutti i documenti, file e foto dettagliate per la costruzione della macchina FruttOliva Facile;
+3) il numero della licenza;
+4) la targhetta della licenza;
+5) la ricevuta/quietanza del pagamento
+
+
 
 ### 📌 Modalità di pagamento
 Bonifico su c/c Poste Italiane:  
 IBAN: IT15W0760102400001016063081
 Intestato a: Renato Maiorana
-
-
 
 Ogni macchina deve riportare una **targhetta con ID licenza** rilasciato dall’autore.  
 
