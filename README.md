@@ -16,7 +16,7 @@
 
 ## Descrizione
 
-La macchina raccoglie olive è un connubio tra Tradizione e Innovazione, un'evoluzione di un mio primo prototipo creato nel 2018
+La macchina raccogli olive è un connubio tra Tradizione e Innovazione, un'evoluzione di un mio primo prototipo creato nel 2018.
 
 PUNTI DI FORZA:
 
