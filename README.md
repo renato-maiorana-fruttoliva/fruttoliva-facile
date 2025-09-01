@@ -138,10 +138,10 @@ Per richiederli è necessario accettare la licenza e completare il pagamento.
 - Aziende/Professionisti: **400 € per ogni unità costruita**.  
 
 ### 📌 Modalità di pagamento
-Bonifico bancario:  
+Bonifico su c/c Poste Italiane:  
 IBAN: IT15W0760102400001016063081
 Intestato a: Renato Maiorana
-Banca: Poste Italiane
+
 
 
 Ogni macchina deve riportare una **targhetta con ID licenza** rilasciato dall’autore.  
