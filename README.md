@@ -19,31 +19,101 @@
 La macchina raccoglie olive è un connubio tra Tradizione e Innovazione, un'evoluzione di un mio primo prototipo creato nel 2018
 
 PUNTI DI FORZA:
-* Studiata e provata in campo questa macchina ha la possibilità di essere utilizzata da un solo operatore per la leggerezza e la manovrabilità;
-* È autosufficiente nell’incassettamento e blocca il fogliame;
-* Costo relativamente basso grazie alle ricerche effettuate e all’idea rivoluzionaria che ho sviluppato;
-* Un solo operatore per un appezzamento di terreno non estremamente sconnesso può raccogliere le olive di 100/120 alberi (o altra frutta secondo la versione della macchina), in pochissimo tempo con la minor fatica possibile:
-* Non serve decespugliare il terreno sempre che l’erba non sia altissima;
-* Non serve potare i polloni sulle radici;
-* Non utilizza le reti di raccolta;
+
+
+
+
+
+
+  
+PROGETTO MACCHINA RACCOGLI FRUTTI PENDULI- OLIVE
+QUESTO NUOVO PROTOTIPO è stato studiato per una raccolta d’eccellenza, le nuove ricerche e lo studio
+sullo sfruttamento della gravità e della cinetica fanno si che la raccolta della frutta o le olive non subisca
+stress. Gli accorgimenti adoperati superano di gran lunga le vecchie macchine di raccolta, le innovazioni
+apportate sono talmente intrinseche nella macchina da far pensare ad una sofisticata tecnologia.
+L’uso e la manutenzione della macchina è stato semplificato per essere usata anche da personale non
+esperto. Tutto è stato pensato e costruito per utilizzare questo piccolo gioiello a largo spettro.
+PUNTI DI FORZA:
+Tutta la macchina è stata inserita nello spazio complessivo di 135x64 cm del carrello con staffe e slitte per
+poterla depositare senza occupazione di spazio in casa o in magazzino. La sua posizione a riposo è in
+verticale quindi le misure di 135 cm sono per l’altezza 64 cm per la larghezza e la profondità e di solo 50 cm.
+
+L’assemblaggio dei pezzi del cestello di raccolta per iniziare il lavoro segue un’indicazione obbligatoria con
+segni che devono combaciare quindi non ci possono essere errori di assemblaggio. Tutti i pezzi possono
+essere montati senza chiavi o attrezzi speciali tutto è fissato attraverso dadi avvitabili con una semplice
+chiave del 13.
+VARI CESTELLI PER VARI FRUTTI:
+I cestelli di raccolta in questo momento sono due, un cestello ad imbuto quadrilatero con rete morbida e un
+cestello rigido a forma di rettangolo con bordo raccolta allungabile di rete semi rigida.
+Il cestello rigido in alluminio forato, è circondato ( per espandere la sua grandezza di raccolta
+frutta) da un tubo in materiale pvc. Per sostenere questo tubo sono stati inserite delle staffe forate
+e dei perni angolati che sostengono dei giunti in pvc del tubo flessibile. Per esigenze di
+allargamento del piano raccolta si può sostituire i perni forniti con dei perni più sporgenti dal piano
+di raccolta.
+E’ stata studiata una tecnologia di fissaggio del cestello al carrello con un solo asse di contatto per
+permettere al piano di muoversi sia in orizzontale che in verticale. Il sistema completamente smontabile,
+(per eventuali modifiche), è stato progettato per regolare attraverso due soli bulloni e due molle
+l’inclinazione dovuta per fare rotolare i frutti verso i due tubi di raccolta e la giusta elasticità per provocare
+vibrazioni per separare le foglie dai frutti.
+Il cestello è stato progettato utilizzando dei tubi di pvc per una sicurezza più profonda, tutti i
+raccordi del cestello sono in pvc, smontabili e modificabili per poter aumentare la circonferenza
+dello stesso, basta sostituire gli assi plastificati sulla croce alta, con degli assi più lunghi e una rete
+più ampia. I tubi in materiale pvc permettono in caso di necessità di potersi avvicinare di più all'albero.
+Il cestello di rete può essere utilizzato con diverse inclinazioni per una raccolta delicata dei frutti penduli
+come Kiwi o molto inclinata per piccoli frutti che non hanno problemi di collisione.
+Fissaggio veloce della rete al tubo con fermi d’acciaio
+TECNOLOGIE INSERITE:
+Cestello regolabile in circonferenza e in angolazione
+
+Piatto raccolta in alluminio leggero sospeso, vibrante, rotante a 360° per il cambio di cassetta. La sua
+sospensione trattenuta dalla stessa rete fa si che il peso dei frutti atterrati lo spinga verso il basso
+sollecitando una forza uguale e contraria per attutire l’impatto , sollecitare le vibrazioni ed indirizzare i
+frutti nel tubo scarico in cassetta. Il piatto è regolabile in altezza può essere bloccato senza cambiare nulla
+sulla rotazione dell’insieme.
+La macchina è dotata di tubi di regolazione altezza cestello per la raccolta dei frutti bassi o alti.
+Il carrello ha tre scomparti incassati 60x40 con molle di adattamento per cassette di diverse misure. Gli
+spazi progettati danno la possibilità di caricare diverse cassette e utilizzarle sia piene che vuote per alzare il
+piano di raccolta secondo il tipo di frutta che si intende raccogliere.
+La macchina ha diverse possibilità di traino con un manico distanziabile dal carrello e intercambiabile con
+un occhiello per il traino da trattore .
+Sono stati disposti dei fori supplementari per poter inserire delle carrucole sia per la parte posteriore che
+per quella anteriore ciò consente di poter affrontate raccolte su terreni in pendenza.
+Il secondo manico fisso permette di agevolare lo spostamento della macchina verso dietro per accelerare i
+tempi di manovra in fase di lavoro.
+Nella fase di progettazione sono stati previsti dei ferri esterni molto robusti per adattare la macchina a
+sforzi di traino più pesanti e per un gancio posteriore per trainare altri carrelli per le casse piene.
+Gli assi anteriori che sostengono il manubrio sono stati rinforzati con del ferro a L per aumentare la
+possibilità di carico, lo stesso manubrio è stato progettato con piani tondi di scivolamento e bullone
+saldato di grosse dimensioni.
+La portata delle ruote è superiore a 400 kg su terreni in piano
+Note:
+Questa macchina è il prodotto di studi e prove di tecnologia e di pensiero… La sua realizzazione mi ha dato
+soddisfazione per tutte le scommesse vinte e forse ancora da vincere con un altro prototipo.
+LA RACCOLTA:
+TERRENI CON ERBA ALTA
+PIANTE CON POLLONI
+PIANTE ALTE E BASSE
+FRUTTI RACCOLTI DIRETTAMENTE IN CASSETTA SENZA TOCCARE IL SUOLO
+SOLO FRUTTA BRUCATA SANA
+NIENTE STRESS E CORSE
+RACCOLTA ANCHE CON PIOGGIA O TERRENI BAGNATI
+NIENTE MOTORI PER IL TRASPORTO
+BASTA UN OPERATORE SOLO
+NIENTE SPOSTAMENTO DI RETI E CASSETTE
+POSSIBILITA’ D’ANCORAGGIO AD ALTRI ALBERI PER UNA RACCOLTA IN SALITA O IN DISCESA
+
 * Si può usare qualsiasi tipo di manina per la brucatura; consigliabile usare la nuova MANINA LEGGERA da me costruita ( Manina Dinamica V 3.0) senza alimentazione elettrica o ad aria per ottenere dell'olio extravergine pregiato;
 * Si consiglia di tenere gli alberi ben potati a cono con le cascatelle di rami (a vaso pollonico) per spostare la produzione verso l’esterno della pianta.
 * FruttOliva può essere spostata manualmente o trainata da un tagliaerba o trattorino;
 * Può trasportare oltre i 150 kg di olive;
 * E’ smontabile, facilmente riponibile in verticale occupando poco spazio e gli accessori sono inseribili nella base stessa;
+  
+POSSIBILITA’ DI MOTIFICARE TUTTO, DAL CESTELLO AL PIATTO, AL TUBO DI RACCOLTA ALLA RETE. LA RETE
+PER SEMPLIFICARE E VELOCIZZARE IL MONTAGGIO LO SMONTAGGIO E LA RIPARAZIONE E’SOLO
+TRATTENUTA DA GRAFFETTE IN ACCIAIO.
 
-PREGI E QUALITA' DEL RACCOLTO:
-Questo sistema di raccolta evita:
-* Di raccogliere olive già in fase di putrefazione;
-* Di pestare le olive cadute sul terreno;
-* Di spostare le olive raccolte direttamente al sito di racconta senza altri operatori;
-* Anche in caso di pioggia si può continuare la raccolta.
 
-Dopo due anni di prove faƩe sul campo su 120 alberi di olive la macchina è pronta, è il succo di
-tuƩe le necessità di olivocoltori, che hanno oliveƟ in terreni umanamente accessibili e non molto sconessi o
-in pendenza.
-**FruttOliva Facile** è un prototipo di macchina **manuale e green** per la raccolta di olive e altri frutti pendenti.  
-I frutti non toccano mai terra, cadono su una superficie ammortizzata e vengono subito incassettati.
+
 
 ### ⚙️ Caratteristiche principali
 - Nessun motore → uso manuale, silenzioso, ecologico.  
