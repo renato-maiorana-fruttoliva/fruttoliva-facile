@@ -1,8 +1,6 @@
-# FruttOliva-Facile
-“ Macchina per la raccolta di olive e di frutta pendula disponibile in due versioni (V 1.0 e V 2.0) su Licenza Source-Available (SA-Commercial).”
-
 # FruttOliva Facile – Macchina raccogli olive e frutta pendula 
 
+“ Macchina per la raccolta di olive e di frutta pendula disponibile in due versioni (V 1.0 e V 2.0) su Licenza Source-Available (SA-Commercial).”
 
 <!-- Logo visibile sia in light che dark mode -->
 <p align="center">
