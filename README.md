@@ -14,7 +14,7 @@
 
 ---
 
-## 🇮🇹 Descrizione (Italiano)
+## Descrizione
 
 La macchina raccoglie olive è un connubio tra Tradizione e Innovazione, un'evoluzione di un mio primo prototipo creato nel 2018
 
