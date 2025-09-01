@@ -127,15 +127,65 @@ TRATTENUTA DA GRAFFETTE IN ACCIAIO.
 
 ## 🔑 Licenza
 Questo progetto è distribuito sotto **Licenza Source-Available (SA-Commercial v1.0)**.  
-I file CAD, i disegni tecnici e i manuali **non sono pubblici**.  
+I disegni tecnici, le immagini dettagliate e i manuali **non sono pubblici**.  
 Per richiederli è necessario accettare la licenza e completare il pagamento.
+
+## 💰 Tariffe: 
+Le seguenti tariffe sono relative al carrello e ad un solo cestello a scelta, chi volesse il progetto di entrambi i cestelli c'è un aggiunta di 100 €
+
+# Partita IVA agricola con uno dei seguenti codici ATECO:
+
+01.26 → Coltivazione di frutti oleosi (olive)
+
+01.24 → Coltivazione di pomacee e frutti a nocciolo (mele, pere, prugne, ciliegie, ecc.)
+
+01.25 → Coltivazione di agrumi
+
+# Iscrizione ad associazioni agricole nazionali:
+
+Coldiretti
+
+CIA – Confederazione Italiana Agricoltori
+
+Confagricoltura
+
+Copagri – Confederazione Produttori Agricoli
+
+Alleanza delle Cooperative Italiane – Agroalimentare
+
+Unaprol – Consorzio Olivicolo Italiano
+
+AcliTerra (settore agricolo delle ACLI)
+Per tutte le altre associazione regionali o nazionali identificare nominativo e relativo numero di iscrizione
+💰 400 € per unità (importo da assoggettare ad eventuale ritenuta d'acconto)
+
+🏭 Partite IVA industriali / artigiane / commerciali
+
+Valido per chi opera in settori NON agricoli, ad esempio:
+
+Officine meccaniche
+
+Carpenterie
+
+Costruttori di macchine agricole
+
+Rivenditori di attrezzature
+
+Aziende artigiane o industriali non agricole
+
+💰 500 € per ogni unità costruita (importo da assoggettare ad eventuale ritenuta d'acconto)
+
+Piccoli coltivatori fino a 300 alberi 
+💰 300 € per ogni unità costruita
+
+📌 Note
+
+Ogni unità deve riportare una targhetta identificativa con ID licenza rilasciato dal titolare.
+
+Dichiarazioni false (es. presentarsi come privato o agricoltore senza titolo) comportano la nullità della licenza e l’obbligo di corrispondere la tariffa corretta maggiorata del 50% come penale.
 
 👉 Compila questo modulo per richiedere i file:  
 **[Modulo di richiesta licenza e download](https://docs.google.com/forms/d/e/1FAIpQLSfTbVVMwHI2QLadnsCA7LujxI0538x4_AsAecVl4cnVWzvgLw/viewform?usp=header)**
-
-### 💰 Tariffe
-- Privati: **100 €** → costruzione di **1 unità personale**.  
-- Aziende/Professionisti: **400 € per ogni unità costruita**.  
 
 ### 📌 Modalità di pagamento
 Bonifico su c/c Poste Italiane:  
