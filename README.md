@@ -143,7 +143,7 @@ Agricoltori/Coltivatori con partita iva e seguenti cod. Ateco:
 24.01 → Coltivazione di pomacee e frutti a nocciolo (mele, pere, prugne, ciliegie, ecc.) 
 01.25 → Coltivazione di agrumi 
 ---
-## (importo da assoggettare  a ritenuta d'acconto da parte del sostituto di imposta, in quanto trattasi di compenso 
+###### (importo da assoggettare  a ritenuta d'acconto da parte del sostituto di imposta, in quanto trattasi di compenso 
 occasionale) 
 ---
 Prezzo della licenza alla costruzione  della Macchina Fruttoliva Facile
@@ -155,7 +155,7 @@ Officine meccaniche
 Carpenteria 
 Costruttori di macchine agricole 
 Rivenditori di attrezzature 
-(importo da assoggettare  a ritenuta d'acconto da parte del sostituto di imposta, in quanto trattasi di compenso 
+##### (importo da assoggettare  a ritenuta d'acconto da parte del sostituto di imposta, in quanto trattasi di compenso 
 occasionale)
 
 
