@@ -4,7 +4,7 @@ Questo progetto è protetto da licenza [FRUTTOLIVA FACILE].   - È vietato l’u
 relativi **forks** senza il rispetto integrale della licenza.   - Anche in caso di **fork su GitHub**, le stesse condizioni legali si applicano senza eccezioni.   - Qualsiasi uso non autorizzato, anche per scopi personali o sperimentali, è considerato 
 **violazione della licenza**.   
 
-“ Macchina per la raccolta di olive e di frutta pendula è disponibile in due versioni (V 1.0) su Licenza Source-Available (SA-Commercial).”
+“ Macchina per la raccolta di olive e di frutta pendula è disponibile su Licenza Source-Available (SA-Commercial).”
 
 <!-- Logo visibile sia in light che dark mode -->
 <p align="center">
@@ -101,7 +101,7 @@ BASTA UN OPERATORE SOLO
 NIENTE USO DI RETI A TERRA E SPOSTAMENTO DI CASSETTE
 POSSIBILITA’ D’ANCORAGGIO AD ALTRI ALBERI PER UNA RACCOLTA IN SALITA O IN DISCESA
 
-* Si può usare qualsiasi tipo di manina per la brucatura; consigliabile usare la nuova MANINA LEGGERA da me costruita ( Manina Dinamica V 3.0) senza alimentazione elettrica o ad aria per ottenere dell'olio extravergine pregiato;
+* Si può usare qualsiasi tipo di manina per la brucatura; consigliabile usare la nuova MANINA LEGGERA da me costruita ( Manina Dinamica V1) senza alimentazione elettrica o ad aria per ottenere dell'olio extravergine pregiato;
 * Si consiglia di tenere gli alberi ben potati a cono con le cascatelle di rami (a vaso pollonico) per spostare la produzione verso l’esterno della pianta.
 * FruttOliva può essere spostata manualmente o trainata da un tagliaerba o trattorino;
 * Può trasportare oltre i 150 kg di frutti;
