@@ -4,7 +4,7 @@ Questo progetto è protetto da licenza [FRUTTOLIVA FACILE].   - È vietato l’u
 relativi **forks** senza il rispetto integrale della licenza.   - Anche in caso di **fork su GitHub**, le stesse condizioni legali si applicano senza eccezioni.   - Qualsiasi uso non autorizzato, anche per scopi personali o sperimentali, è considerato 
 **violazione della licenza**.   
 
-“ Macchina per la raccolta di olive e di frutta pendula è disponibile in due versioni (V 1.0 e V 2.0) su Licenza Source-Available (SA-Commercial).”
+“ Macchina per la raccolta di olive e di frutta pendula è disponibile in due versioni (V 1.0) su Licenza Source-Available (SA-Commercial).”
 
 <!-- Logo visibile sia in light che dark mode -->
 <p align="center">
