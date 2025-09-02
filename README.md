@@ -132,8 +132,8 @@ Per richiederli è necessario accettare la licenza e completare il pagamento.
 
 ## 💰 Tariffe: 
 ### Le seguenti tariffe sono relative al singolo pezzo di macchina “FruttOliva Facile” costituita 
-### da un carrello e da due tipologie di cestello ( uno morbido a forma di simil imbuto e uno 
-### rigido  piatto): 
+### da un carrello e da due tipologie di cestello uno morbido a forma di imbuto e uno 
+### rigido  piatto
 ---
 ## Prezzo della licenza alla costruzione  della Macchina Fruttoliva Facile
 ### carrello con due cestelli uno morbido e uno rigido 500 euro  
