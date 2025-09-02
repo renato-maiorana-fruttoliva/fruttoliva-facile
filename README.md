@@ -134,15 +134,18 @@ Per richiederli è necessario accettare la licenza e completare il pagamento.
 Le seguenti tariffe sono relative al singolo pezzo di macchina “FruttOliva Facile” costituita 
 da un carrello e da due tipologie di cestello ( uno morbido a forma di simil imbuto e uno 
 rigido  piatto): 
+---
 Prezzo della licenza alla costruzione  della Macchina Fruttoliva Facile
- :  
+ : 
 carrello con due cestelli uno morbido e uno rigido 500 euro  
 Agricoltori/Coltivatori con partita iva e seguenti cod. Ateco: 
 26.01 → Coltivazione di frutti oleosi (olivo) 
 24.01 → Coltivazione di pomacee e frutti a nocciolo (mele, pere, prugne, ciliegie, ecc.) 
 01.25 → Coltivazione di agrumi 
-(importo da assoggettare  a ritenuta d'acconto da parte del sostituto di imposta, in quanto trattasi di compenso 
+---
+## (importo da assoggettare  a ritenuta d'acconto da parte del sostituto di imposta, in quanto trattasi di compenso 
 occasionale) 
+---
 Prezzo della licenza alla costruzione  della Macchina Fruttoliva Facile
  :  
 carrello con due cestelli uno morbido e uno rigido 600 euro per la 
