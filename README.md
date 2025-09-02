@@ -193,8 +193,7 @@ Ogni macchina deve riportare una **targhetta con ID licenza** rilasciato dall’
 
 ## 📅 Data certa
 Il progetto è archiviato con **DOI Zenodo**:  
-👉 [DOI da inserire dopo la release su Zenodo]  
-(https://doi.org/10.5281/zenodo.17038575)
+👉(https://doi.org/10.5281/zenodo.17038575)
 ---
 
 ## 📧 Contatti
