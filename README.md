@@ -131,59 +131,37 @@ I disegni tecnici, le immagini dettagliate e i manuali **non sono pubblici**.
 Per richiederli è necessario accettare la licenza e completare il pagamento.
 
 ## 💰 Tariffe: 
-Le seguenti tariffe sono relative al carrello e ad un solo cestello a scelta, per chi volesse il progetto di entrambi i cestelli c'è un aggiunta di 100 €
+Le seguenti tariffe sono relative al singolo pezzo di macchina “FruttOliva Facile” costituita 
+da un carrello e da due tipologie di cestello ( uno morbido a forma di simil imbuto e uno 
+rigido  piatto): 
+Prezzo della licenza alla costruzione  della Macchina Fruttoliva Facile
+ :  
+carrello con due cestelli uno morbido e uno rigido 500 euro  
+Agricoltori/Coltivatori con partita iva e seguenti cod. Ateco: 
+26.01 → Coltivazione di frutti oleosi (olivo) 
+24.01 → Coltivazione di pomacee e frutti a nocciolo (mele, pere, prugne, ciliegie, ecc.) 
+01.25 → Coltivazione di agrumi 
+(importo da assoggettare  a ritenuta d'acconto da parte del sostituto di imposta, in quanto trattasi di compenso 
+occasionale) 
+Prezzo della licenza alla costruzione  della Macchina Fruttoliva Facile
+ :  
+carrello con due cestelli uno morbido e uno rigido 600 euro per la 
+categoria: 
+Industriali/artigiane/commerciali 
+Officine meccaniche 
+Carpenteria 
+Costruttori di macchine agricole 
+Rivenditori di attrezzature 
+(importo da assoggettare  a ritenuta d'acconto da parte del sostituto di imposta, in quanto trattasi di compenso 
+occasionale)
 
-# Partita IVA agricola con uno dei seguenti codici ATECO:
 
-01.26 → Coltivazione di frutti oleosi (olive)
 
-01.24 → Coltivazione di pomacee e frutti a nocciolo (mele, pere, prugne, ciliegie, ecc.)
 
-01.25 → Coltivazione di agrumi
 
-# Iscrizione ad associazioni agricole nazionali:
 
-Coldiretti
 
-CIA – Confederazione Italiana Agricoltori
 
-Confagricoltura
-
-Copagri – Confederazione Produttori Agricoli
-
-Alleanza delle Cooperative Italiane – Agroalimentare
-
-Unaprol – Consorzio Olivicolo Italiano
-
-AcliTerra (settore agricolo delle ACLI)
-
-Per tutte le altre associazione regionali o nazionali identificare nominativo e relativo numero di iscrizione
-# 400 € per unità (importo da assoggettare ad eventuale ritenuta d'acconto da parte del sosituto di imposta)
-
-# Partite IVA industriali / artigiane / commerciali
-
-Valido per chi opera in settori NON agricoli, ad esempio:
-
-Officine meccaniche
-
-Carpenterie
-
-Costruttori di macchine agricole
-
-Rivenditori di attrezzature
-
-Aziende artigiane o industriali non agricole
-
-# 500 € per ogni unità costruita (importo da assoggettare ad eventuale ritenuta d'acconto da parte del sostituto di imposta)
-
-# Piccoli coltivatori fino a 300 alberi 
-# 300 € per ogni unità costruita
-
-📌 Note
-
-Ogni unità deve riportare una targhetta identificativa con ID licenza rilasciato dal titolare.
-
-Dichiarazioni false (es. presentarsi come privato o agricoltore senza titolo) comportano la nullità della licenza e l’obbligo di corrispondere la tariffa corretta maggiorata del 50% come penale.
 
 
 👉 Compila questo modulo per richiedere i file:  
