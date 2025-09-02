@@ -168,7 +168,7 @@ occasionale)
 
 
 👉 Compila questo modulo per richiedere i file:  
-**[Modulo di richiesta licenza e download](legal/licenza.pdf)rm?usp=header**
+**[Modulo di richiesta licenza e download](legal/licenza.pdf)**
 - Scarica la licenza
 - Compila con tutti i dati richiesti
 - Invia la licenza compilata e firmata all'indirizzo email: fruttolivafacile@gmail.com
