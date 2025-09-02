@@ -143,7 +143,7 @@ Per richiederli è necessario accettare la licenza e completare il pagamento.
 01.25 → Coltivazione di agrumi 
 ---
 ###### (importo da assoggettare  a ritenuta d'acconto da parte del sostituto di imposta, in quanto trattasi di compenso 
-######occasionale) 
+###### occasionale) 
 ---
 ## Prezzo della licenza alla costruzione  della Macchina Fruttoliva Facile
 ### carrello con due cestelli uno morbido e uno rigido 600 euro per la 
