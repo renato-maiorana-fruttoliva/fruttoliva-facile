@@ -1,6 +1,6 @@
 # FruttOliva Facile – Macchina raccogli olive e frutta pendula 
 ##   Avviso sulla Licenza 
-##Questo progetto è protetto da licenza [FRUTTOLIVA FACILE].   - È vietato l’utilizzo, la modifica e la distribuzione del contenuto di questo repository e dei 
+Questo progetto è protetto da licenza [FRUTTOLIVA FACILE].   - È vietato l’utilizzo, la modifica e la distribuzione del contenuto di questo repository e dei 
 relativi **forks** senza il rispetto integrale della licenza.   - Anche in caso di **fork su GitHub**, le stesse condizioni legali si applicano senza eccezioni.   - Qualsiasi uso non autorizzato, anche per scopi personali o sperimentali, è considerato 
 **violazione della licenza**.   
 
